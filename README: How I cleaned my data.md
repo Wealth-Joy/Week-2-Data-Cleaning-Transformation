@@ -1,4 +1,5 @@
 Week 2: Data Cleaning & Transformation
+
 Introduction
 
 I focused on cleaning up messy data in Microsoft Excel. The goal was to remove unnecessary things, fix text formatting, and organize the data so it looks neat and is easy to use.
